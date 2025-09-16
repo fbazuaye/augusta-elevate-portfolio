@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/dr-augusta-profile.jpg";
+import profileImage from "@/assets/dr-augusta-real-photo.png";
 
 const Hero = () => {
   const scrollToProjects = () => {
