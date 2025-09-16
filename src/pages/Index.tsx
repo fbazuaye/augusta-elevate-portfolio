@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import ProjectsCarousel from "@/components/ProjectsCarousel";
 import Footer from "@/components/Footer";
+import ChatbotEmbed from "@/components/ChatbotEmbed";
 
 const Index = () => {
   return (
@@ -8,6 +9,7 @@ const Index = () => {
       <Hero />
       <ProjectsCarousel />
       <Footer />
+      <ChatbotEmbed />
     </div>
   );
 };
